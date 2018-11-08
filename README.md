@@ -106,6 +106,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server.
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+  * [Node FHIR Server Code](https://github.com/Asymmetrik/node-fhir-server-core) - The Asymmetrik Extensible Server Framework for Healthcare allows organizations to build secure, interoperable solutions that can aggregate and expose healthcare resources via a common HL7® FHIR®-compatible REST API
 
 ### Libraries
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
@@ -174,3 +175,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Compliance
 * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+
+### Testing and Validation
+ * [Reference CCDA Validator](https://github.com/siteadmin/reference-ccda-validator) - Successfully configure and deploy the reference ccda application
+ * [Code Validator API](https://github.com/siteadmin/code-validator-api) - Vocabulary validation of C-CDAs against a configured repository of codesystem and valueset files 
+ * [Inferno](https://github.com/siteadmin/inferno) - Test server's conformance to authentication, authorization, and FHIR content standards and reports the results back to you
+ * [Edge Testing Tool](https://github.com/siteadmin/ett) -  A collection of testing utilities created to validate the requirements of the ONC 2014 and 2015 Edition Health IT Certification Program
+ * [CCDA Scorecard](https://github.com/siteadmin/ccda-scorecard) - This Service is implemented following the standards and promotes best practices in C-CDA implementation by assessing key aspects of the structured data found in individual documents
+ 
+
+ 
+ 
+
+
