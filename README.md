@@ -24,7 +24,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
-- [Testing and Validation](#Testing and Validation)
+- [Testing and Validation](#testing-and-validation)
+- [Blockchain](#blockchain)
+- [Population Health CQM](#population-health-CQM)
+
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
