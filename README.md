@@ -24,7 +24,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
-
+- [Testing and Validation](#Testing and Validation)
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
@@ -107,6 +107,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Spark](https://github.com/furore-fhir/spark) - FHIR server.
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
   * [Node FHIR Server Code](https://github.com/Asymmetrik/node-fhir-server-core) - The Asymmetrik Extensible Server Framework for Healthcare allows organizations to build secure, interoperable solutions that can aggregate and expose healthcare resources via a common HL7® FHIR®-compatible REST API
+  * [Node CQM Engine](https://github.com/projectcypress/node-cqm-engine) - MongoDB based cqm calculation engine with redis workers
+   [Node QME](https://github.com/projectcypress/node-qme) - This project is an abstract implementation of the quality-measure-engine used by Bonnie/Cypress/popHealth. It provides the ability to calculate electronic clinical quality measures given a PatientSource.
+  
 
 ### Libraries
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
@@ -122,6 +125,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Quality Measure Engine](https://github.com/projectcypress/quality-measure-engine) - This project is a library designed to calculate clinical quality measures over a given population. Quality measures are described via JSON and provide the details on what information is needed from a patient record to calculate a quality measure
+  * [Cypress .NET SDK](https://github.com/projectcypress/cypress-dotnet-sdk) - Cypress CQM .NET library
+  * [CCDA Tools](https://github.com/projectcypress/cdatools) - Go package for CDA Document Handling
+  * [CCDA Tools](https://github.com/projectcypress/cdatools) - Go
+  
+  
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
@@ -182,6 +191,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
  * [Inferno](https://github.com/siteadmin/inferno) - Test server's conformance to authentication, authorization, and FHIR content standards and reports the results back to you
  * [Edge Testing Tool](https://github.com/siteadmin/ett) -  A collection of testing utilities created to validate the requirements of the ONC 2014 and 2015 Edition Health IT Certification Program
  * [CCDA Scorecard](https://github.com/siteadmin/ccda-scorecard) - This Service is implemented following the standards and promotes best practices in C-CDA implementation by assessing key aspects of the structured data found in individual documents
+ * [Cypress](https://github.com/projectcypress/cypress) - Cypress is the rigorous and repeatable testing tool of Electronic Health Records (EHRs) and EHR modules in calculating Meaningful Use (MU) Stage 2 Clinical Quality Measures (CQMs)
+
  
 
  
