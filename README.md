@@ -206,7 +206,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
  * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains.  
  * [CQL to ELM Translation Service](https://github.com/cqframework/clinical_quality_language) -A microservice wrapper for the CQL to ELM conversion library.
  * [opioid-cds-logic](https://github.com/cqframework/clinical_quality_language) -Opioid Prescribing Support Logic Source
- 
+ * [DaVinci Data Exchange For Quality Measures](https://github.com/HL7/davinci-deqm) -Data Exchange for Quality Measures
+
  
 
  
