@@ -203,6 +203,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
  
  ### Population Health CQM
  * [popHealth](https://github.com/OSEHRA/popHealth) - popHealth is an open source tool that allows healthcare providers to calculate quality measures. A quality measure is a calculation of the number of individuals in a population that meet a specific standard of care.
+ * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains.  
+ * [CQL to ELM Translation Service](https://github.com/cqframework/clinical_quality_language) -A microservice wrapper for the CQL to ELM conversion library.
+ * [opioid-cds-logic](https://github.com/cqframework/clinical_quality_language) -Opioid Prescribing Support Logic Source
+ 
+ 
 
  
  
