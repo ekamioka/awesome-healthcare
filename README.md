@@ -207,6 +207,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
  * [CQL to ELM Translation Service](https://github.com/cqframework/clinical_quality_language) -A microservice wrapper for the CQL to ELM conversion library.
  * [opioid-cds-logic](https://github.com/cqframework/clinical_quality_language) -Opioid Prescribing Support Logic Source
  * [Coverage Requirements Discovery (CRD) Reference Implementation (RI)](https://github.com/HL7-DaVinci/CRD) -The Coverage Requirements Discovery (CRD) Reference Implementation (RI) is a software project that conforms to the Implementation Guide developed by the Da Vinci Project within the HL7 Standards Organization.
+ * [Bonnie](https://github.com/projecttacoma/bonnie) -Clinical Quality Measure Testing Tool
 
  
 
