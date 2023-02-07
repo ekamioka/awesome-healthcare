@@ -26,6 +26,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Enterprise Master Patient Index](#empi)
 - [Machine Learning](#machine-learning)
 - [Compliance](#compliance)
+- [Testing and Validation](#testing-and-validation)
+- [Blockchain](#blockchain)
+- [Population Health CQM](#population-health-CQM)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
 - [Analytics](#analytics)
@@ -126,6 +129,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
   * [Sushi](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+  * [Node FHIR Server Code](https://github.com/Asymmetrik/node-fhir-server-core) - The Asymmetrik Extensible Server Framework for Healthcare allows organizations to build secure, interoperable solutions that can aggregate and expose healthcare resources via a common HL7® FHIR®-compatible REST API
+  * [Node CQM Engine](https://github.com/projectcypress/node-cqm-engine) - MongoDB based cqm calculation engine with redis workers
+  * [Node QME](https://github.com/projectcypress/node-qme) - This project is an abstract implementation of the quality-measure-engine used by Bonnie/Cypress/popHealth. It provides the ability to calculate electronic clinical quality measures given a PatientSource.
 
 ### Libraries
   * [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK 
@@ -160,6 +166,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
   * [Z-Anatomy](https://www.z-anatomy.com) - The libre atlas of anatomy
+  * [Node SMART on FHIR client](https://github.com/smart-on-fhir/client-node) - Extensible SMART on FHIR client library
+  * [Quality Measure Engine](https://github.com/projectcypress/quality-measure-engine) - This project is a library designed to calculate clinical quality measures over a given population. Quality measures are described via JSON and provide the details on what information is needed from a patient record to calculate a quality measure
+  * [Cypress .NET SDK](https://github.com/projectcypress/cypress-dotnet-sdk) - Cypress CQM .NET library
+  * [CCDA Tools](https://github.com/projectcypress/cdatools) - Go package for CDA Document Handling
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
@@ -221,7 +231,31 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Machine learning
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+  * [DNN Healthcare](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More
 
+### Compliance
+* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+
+### Testing and Validation
+ * [Reference CCDA Validator](https://github.com/siteadmin/reference-ccda-validator) - Successfully configure and deploy the reference ccda application
+ * [Code Validator API](https://github.com/siteadmin/code-validator-api) - Vocabulary validation of C-CDAs against a configured repository of codesystem and valueset files 
+ * [Inferno](https://github.com/siteadmin/inferno) - Test server's conformance to authentication, authorization, and FHIR content standards and reports the results back to you
+ * [Edge Testing Tool](https://github.com/siteadmin/ett) -  A collection of testing utilities created to validate the requirements of the ONC 2014 and 2015 Edition Health IT Certification Program
+ * [CCDA Scorecard](https://github.com/siteadmin/ccda-scorecard) - This Service is implemented following the standards and promotes best practices in C-CDA implementation by assessing key aspects of the structured data found in individual documents
+ * [Cypress](https://github.com/projectcypress/cypress) - Cypress is the rigorous and repeatable testing tool of Electronic Health Records (EHRs) and EHR modules in calculating Meaningful Use (MU) Stage 2 Clinical Quality Measures (CQMs)
+ * [Crucible](https://github.com/fhir-crucible/crucible) - Crucible is a suite of open source testing tools for HL7® FHIR®. It is provided as a free service to the FHIR development community to help promote correct FHIR implementations.
+
+### Blockchain
+ * [Healthcare and Biomedical Blockchains](https://db.biomedicalblockchain.org/) - The Center for Biomedical Blockchain Research was established to lead the efforts within Mount Sinai for the exploration and application of blockchain technology to problems in healthcare, biomedicine, and open science.
+
+ ### Population Health CQM
+ * [popHealth](https://github.com/OSEHRA/popHealth) - popHealth is an open source tool that allows healthcare providers to calculate quality measures. A quality measure is a calculation of the number of individuals in a population that meet a specific standard of care.
+ * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains.  
+ * [CQL to ELM Translation Service](https://github.com/cqframework/clinical_quality_language) -A microservice wrapper for the CQL to ELM conversion library.
+ * [opioid-cds-logic](https://github.com/cqframework/clinical_quality_language) -Opioid Prescribing Support Logic Source
+ * [Coverage Requirements Discovery (CRD) Reference Implementation (RI)](https://github.com/HL7-DaVinci/CRD) -The Coverage Requirements Discovery (CRD) Reference Implementation (RI) is a software project that conforms to the Implementation Guide developed by the Da Vinci Project within the HL7 Standards Organization.
+ * [Bonnie](https://github.com/projecttacoma/bonnie) -Clinical Quality Measure Testing Tool
+ 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
