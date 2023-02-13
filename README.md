@@ -233,6 +233,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
   * [DNN Healthcare](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More
   * [Video - Explainable AI for Science and Medicine](https://www.youtube.com/watch?v=B-c8tIgchu0) - Understanding why a machine learning model makes a certain prediction can be as crucial as the prediction's accuracy in many applications.
+  * [Overview of ML applied to Bioinformatics](https://hackernoon.com/bioinformatics-seeing-significant-innovation-thanks-to-ai-and-machine-learning) - Bioinformatics Seeing Significant Innovation Thanks to AI and Machine Learning by @itrex
 
 ### Compliance
 * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
